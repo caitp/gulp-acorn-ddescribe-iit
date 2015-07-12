@@ -8,7 +8,7 @@ install:
   - npm install istanbul coveralls
 
 script:
-  - ./tools/ddescribe-it.js
+  - ./tools/ddescribe-iit.js
   - ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- --reporter dot
 
 after_success:
