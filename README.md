@@ -7,7 +7,7 @@ gulp-acorn-ddescribe-iit
 [![NPM Version](http://img.shields.io/npm/v/gulp-acorn-ddescribe-iit.svg)](https://www.npmjs.org/package/gulp-acorn-ddescribe-iit)
 
 Based on [gulp-ddescribe-iit](https://github.com/caitp/gulp-ddescribe-iit),
-but uses a real javascript parser [acorn](https://github.com/marijnh/acorn) to minimize false positives (occurrences of words within comments or string literals). Some bugs occurring in gulp-ddescribe-iit are also fixed in this variation.
+but uses a real javascript parser ([acorn](https://github.com/marijnh/acorn)) to minimize false positives (occurrences of words within comments or string literals). Some bugs occurring in gulp-ddescribe-iit are also fixed in this variation.
 
 ## Hows it look!?
 
