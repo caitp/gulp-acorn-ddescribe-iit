@@ -27,6 +27,7 @@
   "homepage": "https://github.com/caitp/gulp-acorn-ddescribe-iit#readme",
   "dependencies": {
     "acorn": "^2.0.4",
-    "gulp-util": "^3.0.6"
+    "gulp-util": "^3.0.6",
+    "through2": "^2.0.0"
   }
 }
