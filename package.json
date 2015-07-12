@@ -1,0 +1,31 @@
+{
+  "name": "gulp-acorn-ddescribe-iit",
+  "version": "1.0.0",
+  "description": "gulp-ddescribe-iit + full JS parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caitp/gulp-acorn-ddescribe-iit.git"
+  },
+  "keywords": [
+    "gulp",
+    "jasmine",
+    "testing",
+    "angular",
+    "oops",
+    "derp",
+    "acorn"
+  ],
+  "author": "Caitlin Potter <caitpotter88@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caitp/gulp-acorn-ddescribe-iit/issues"
+  },
+  "homepage": "https://github.com/caitp/gulp-acorn-ddescribe-iit#readme",
+  "dependencies": {
+    "acorn": "^2.0.4"
+  }
+}
